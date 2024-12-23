@@ -1,12 +1,10 @@
 Snooker Score Tracker
 
-Description
 
 The Snooker Score Tracker is a modern and user-friendly mobile application designed for snooker enthusiasts. Whether you’re a casual player or a competitive professional, this app makes it easy to keep track of scores, manage players, and enhance your overall gameplay experience. With advanced scoring features, sleek UI design, and customizable settings, the app aims to simplify the process of scorekeeping while adding a touch of fun and interactivity to your matches.
 
 Features
 
-For Users
 
 Real-Time Score Tracking: Keep an accurate record of player scores during matches.
 
@@ -22,7 +20,7 @@ Elegant Design: Enjoy a visually appealing design with smooth navigation and ani
 
 Personalization: Customize player names and other match details to fit your needs.
 
-For Employers (CV Context)
+
 
 Technical Highlights
 
@@ -50,24 +48,6 @@ Team Collaboration: Although primarily developed solo, the project structure is 
 
 Adaptability: Quickly iterated on user feedback to improve functionality and address edge cases.
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/snooker-score-tracker.git
-
-Navigate to the project directory:
-
-cd snooker-score-tracker
-
-Install dependencies:
-
-flutter pub get
-
-Run the app on an emulator or physical device:
-
-flutter run
-
 Usage
 
 Launch the app.
@@ -91,29 +71,3 @@ Multiplayer Support: Enable online score sharing with friends.
 Dark Mode: Introduce a dark theme for better usability at night.
 
 Global Leaderboard: Create a community-driven ranking system.
-
-Contact
-
-For questions, feedback, or contributions:
-
-Email: your-email@example.com
-
-GitHub: Your GitHub Profile
-
-LinkedIn: Your LinkedIn Profile
-
-Why This Project is a Great Fit for My CV
-
-This project demonstrates my ability to:
-
-Build production-ready Flutter applications.
-
-Solve real-world problems with technical efficiency.
-
-Design engaging and responsive user interfaces.
-
-Implement persistent storage solutions for app data.
-
-Write clean, modular, and reusable code for scalability.
-
-It reflects my passion for creating impactful software solutions and showcases my technical expertise in mobile application development. The project’s emphasis on usability, attention to detail, and robust functionality highlights my ability to deliver quality results under tight deadlines.
