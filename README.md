@@ -1,9 +1,9 @@
-Snooker Score Tracker
+# Snooker Score Tracker
 
 
 The Snooker Score Tracker is a modern and user-friendly mobile application designed for snooker enthusiasts. Whether you’re a casual player or a competitive professional, this app makes it easy to keep track of scores, manage players, and enhance your overall gameplay experience. With advanced scoring features, sleek UI design, and customizable settings, the app aims to simplify the process of scorekeeping while adding a touch of fun and interactivity to your matches.
 
-Features
+# Features
 
 
 Real-Time Score Tracking: Keep an accurate record of player scores during matches.
@@ -22,7 +22,7 @@ Personalization: Customize player names and other match details to fit your need
 
 
 
-Technical Highlights
+# Technical Highlights
 
 Flutter Framework: Built using Flutter, enabling cross-platform compatibility for Android and iOS.
 
@@ -48,7 +48,7 @@ Team Collaboration: Although primarily developed solo, the project structure is 
 
 Adaptability: Quickly iterated on user feedback to improve functionality and address edge cases.
 
-Usage
+# Usage
 
 Launch the app.
 
@@ -62,7 +62,7 @@ Screenshots
 
 Add screenshots of the app here to showcase its interface and features.
 
-Roadmap
+# Roadmap
 
 Enhanced Game Analytics: Provide detailed match analytics with visual charts.
 
